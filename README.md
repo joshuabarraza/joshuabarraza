@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **joshuabarraza/joshuabarraza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hey!
+
+I'm Josh, 23 in San Diego
+
+My experience is diverse as it's rooted in individual projects I find interesting
+
+I enjoy working on LLMs and deep learning algorithms
+
+Currently building: 3D Game Coming Soon!
+
+Feel free to reach out on [Linkedin](https://www.linkedin.com/in/joshua-barraza/)
