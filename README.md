@@ -14,12 +14,10 @@ Here are some ideas to get you started:
 -->
 Hey!
 
-I'm Josh, 23 in San Diego
-
-My experience is diverse as it's rooted in individual projects I find interesting
+I'm Josh, 23 and currently based in San Diego
 
 I enjoy working on LLMs and deep learning algorithms
 
-Currently building: 3D Game Coming Soon!
+Currently building: Cloud REST API
 
 Feel free to reach out on [Linkedin](https://www.linkedin.com/in/joshua-barraza/)
