@@ -16,8 +16,8 @@ Hey!
 
 I'm Josh, 23 and currently based in San Diego
 
-I enjoy working on LLMs and deep learning algorithms
+I enjoy working on embedded systems, LLMs and deep learning algorithms
 
-Currently building: Cloud REST API
+Currently building: Mobile Ad-Hoc Radio with Voice Capabilities, IOS Logging app with AI capabilities, and more!
 
 Feel free to reach out on [Linkedin](https://www.linkedin.com/in/joshua-barraza/)
